@@ -8,7 +8,7 @@ import pandas as pd
 from textblob import TextBlob
 
 # Load the CSV file into a DataFrame
-df = pd.read_csv(r"C:\Users\malli\Downloads\movie.csv")
+df = pd.read_csv(r"C:\Users\malli\Downloads\archive (4)\movie.csv")
 
 # Define the start and end index for the range of reviews you want to select
 start_index = 5
